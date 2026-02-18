@@ -1,0 +1,10 @@
+## Interface: 50503
+## Title: AddOnQuietLogin
+## Notes: Suppresses addon startup/loaded spam during login and /reload, with auto-detection and optional autoblock.
+## Author: TheManBoyBeast
+## Version: 2.0.9
+## SavedVariables: AddOnQuietLoginDB
+## DefaultState: enabled
+## LoadOnDemand: 0
+
+AddOnQuietLogin.lua
